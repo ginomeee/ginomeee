@@ -41,6 +41,9 @@ This GitHub is a mix of personal projects I'm proud of, coursework from my BS In
 ### [ginomedia](https://github.com/ginomeee/ginomedia) · [gino.media](https://gino.media)
 My personal website and CV landing page. Built with Jekyll and hosted on GitHub Pages. A hobby frontend project — the goal was to design something that makes a CV easy to read at a glance, with a dark tech aesthetic, card layouts, and interactive hover elements. No frameworks, just HTML, CSS, and vanilla JS.
 
+### [Chinabank Transactions Scraper](https://github.com/ginomeee/chinabank-transactions-scraper)
+A browser-based bookmarklet script I made to scrape Chinabank's website of current transactions available on the My CBC website in order to more easily understand and track personal finances. 
+
 ### [DayOne-Store](https://github.com/ginomeee/DayOne-Store)
 An online store project I built from scratch for an IT course and ended up recycling and rebuilding for several other classes throughout university. JavaScript-based, and one I'm genuinely proud of putting together independently.
 
